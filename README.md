@@ -1,7 +1,7 @@
 <h1 align="center"> DevLinks </h1>
 
 <p align="center">
-DevLinks é um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+<a href="https://www.rocketseat.com.br/devlinks" target="_blank">DevLinks</a> é um programa exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 
 <p align="center">
